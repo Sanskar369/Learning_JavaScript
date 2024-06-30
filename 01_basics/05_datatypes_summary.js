@@ -27,5 +27,3 @@ let myObj={
 const myfunction =function(){
     console.log("Hello world");
 }
-
-console
